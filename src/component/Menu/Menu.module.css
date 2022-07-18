@@ -1,0 +1,32 @@
+.people {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1rem;
+  font-weight: bold;
+  height: 3rem;
+  border: solid 5px rgb(238, 237, 237);
+  margin: 0px 2rem 0.3rem 2rem;
+}
+
+.color {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1rem;
+  font-weight: bold;
+  height: 3rem;
+  border: solid 5px pink;
+  margin: 0px 2rem 0.3rem 2rem;
+}
+
+.object {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1rem;
+  font-weight: bold;
+  height: 3rem;
+  border: solid 5px skyblue;
+  margin: 0px 2rem 0.3rem 2rem;
+}

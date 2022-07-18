@@ -1,0 +1,101 @@
+.container {
+  display: flex;
+  height: 3.5rem;
+  margin: 0rem 2rem 1rem 2rem;
+  vertical-align: bottom;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+  color: white;
+  background-color: rgba(48, 47, 47, 0.884);
+}
+
+.input {
+  width: 9rem;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.people {
+  height: 2.5rem;
+  border: solid 5px rgb(238, 237, 237);
+  width: 15rem;
+  font-size: 1.2rem;
+  position: absolute;
+  display: flex;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  background-color: white;
+  justify-content: center;
+  margin: auto;
+  font-weight: bold;
+}
+
+.color {
+  height: 2.5rem;
+  border: solid 5px pink;
+  width: 15rem;
+  font-size: 1.2rem;
+  position: absolute;
+  display: flex;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  background-color: white;
+  justify-content: center;
+  margin: auto;
+  font-weight: bold;
+}
+
+.object {
+  height: 2.5rem;
+  border: solid 5px skyblue;
+  width: 15rem;
+  font-size: 1.2rem;
+  position: absolute;
+  display: flex;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  background-color: white;
+  justify-content: center;
+  margin: auto;
+  font-weight: bold;
+}
+
+.peopleLine {
+  position: relative;
+  height: 1.5rem;
+  margin: 3rem 2rem 0px 2rem;
+  right: rem;
+  border-top: solid 5px rgb(238, 237, 237);
+  border-right: solid 5px rgb(238, 237, 237);
+  border-left: solid 5px rgb(238, 237, 237);
+}
+
+.colorLine {
+  position: relative;
+  height: 1.5rem;
+  margin: 3rem 2rem 0px 2rem;
+  right: rem;
+  border-top: solid 5px pink;
+  border-right: solid 5px pink;
+  border-left: solid 5px pink;
+}
+
+.objectLine {
+  position: relative;
+  height: 1.5rem;
+  margin: 3rem 2rem 0px 2rem;
+  right: rem;
+  border-top: solid 5px skyblue;
+  border-right: solid 5px skyblue;
+  border-left: solid 5px skyblue;
+}
