@@ -5,9 +5,9 @@ export const sentence = [
 ];
 
 export const defaultImage = [
-  "https://media.istockphoto.com/photos/red-apple-picture-id184276818?k=20&m=184276818&s=612x612&w=0&h=QxOcueqAUVTdiJ7DVoCu-BkNCIuwliPEgtAQhgvBA_g=",
-  "https://health.chosun.com/site/data/img_dir/2022/05/04/2022050401754_0.jpg",
-  "https://m.uhwa.co.kr/web/upload/NNEditor/20161128/orange20oil.png",
+  "https://img.freepik.com/free-vector/people-waving-hand-illustration-concept_52683-29825.jpg?t=st=1658306334~exp=1658306934~hmac=2f8d3f0867eb2fd4c445201fbd9398695e654b2051a90f94462396529c21ecb7&w=1380",
+  "https://us.123rf.com/450wm/agor2012/agor20121610/agor2012161000152/63746334-schoolboy-%EB%B0%8F-%ED%95%99%EA%B5%90-%EB%AC%BC%EA%B1%B4%EC%9D%98-%EB%B0%B0%EB%82%AD%EC%9E%85%EB%8B%88%EB%8B%A4-%EB%AC%B8%EB%B0%A9%EA%B5%AC-%EB%B2%A1%ED%84%B0-%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8-%EB%A0%88%EC%9D%B4-%EC%85%98-.jpg?ver=6",
+  "https://cdn.pixabay.com/photo/2016/02/10/20/29/circle-1192509_960_720.png",
 ];
 
 export const errorImage =
